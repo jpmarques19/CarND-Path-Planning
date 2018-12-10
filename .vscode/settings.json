@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "xcomplex": "cpp"
+    }
+}
